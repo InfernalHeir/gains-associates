@@ -1,0 +1,7 @@
+const V15 = "0xcF23eCFcAE62133877a265774cD9BAeAe3Af4dE3";
+const GAINS = "0xcd49901EE9C6f1E28b1619361a68FE33FF79CEA6";
+
+module.exports = {
+  V15,
+  GAINS
+};
